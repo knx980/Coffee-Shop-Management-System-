@@ -1,7 +1,7 @@
 # Coffee-Shop-Management-System ( In 'C' Program ) 😊😊
 
 
-Here’s a clear and concise version of the steps for your Coffee Shop Project:
+Coffee Shop Project:
 ________________________________________
 1. Collect Menu Details from the Manager/Owner:
 •	(i) Ask how many types of coffee varieties are available at the shop (record in numerical format).
